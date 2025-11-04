@@ -147,7 +147,3 @@ Import `docs/postman_collection.json` for ready‑made requests.
 Commit these screenshots under `docs/screenshots/` in your repo.
 
 ---
-
-## 🧾 License
-
-MIT
